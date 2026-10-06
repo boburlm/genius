@@ -4,8 +4,8 @@ import os
 from telebot import TeleBot, types
 
 # Bot tokenini shu yerga kiriting
-TOKEN = "8651002727:AAEDcWu3DeD2-9Ll882jV5MukQOzwrkasfQ"
-bot = TeleBot("8651002727:AAEDcWu3DeD2-9Ll882jV5MukQOzwrkasfQ")
+TOKEN = "ur token"
+bot = TeleBot("Ur token")
 
 # Bazani ruxsat berilgan xavfsiz papkada yaratamiz (/Users/aa/ombor.db)
 BAZA_FAYLI = os.path.expanduser("~/ombor.db")
